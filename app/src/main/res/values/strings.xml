@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="label_name">Enter Name</string>
+    <string name="label_email">Enter Email</string>
+    <string name="label_password">Enter Password</string>
+    <string name="quiz_app_title">QuizzoPedia</string>
+    <string name="enter_details">Enter details to get started</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
